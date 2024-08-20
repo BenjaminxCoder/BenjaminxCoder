@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjaminxCoder
 - 👀 I’m interested in Finance, Real Estate, and Software/AI.
-- 🌱 I’m currently learning Computer Science and FinTech.
+- 🌱 I’m currently pursuing a Bachelor's degree in Software Development with a concentration in Artificial Intelligence at Bellevue College.
 - 💞️ I’m looking to collaborate on any project to help me learn.
 - 📫 How to reach me Email: Berry.walker.jr@outlook.com
 - 😄 Pronouns: That/Guy
