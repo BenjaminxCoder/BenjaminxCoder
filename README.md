@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @BenjaminxCoder<br>👀 I’m interested in Finance, Real Estate, and Software/AI.<br>🌱 I’m currently pursuing a Bachelor's degree in Software Development with a concentration in Artificial Intelligence at Bellevue College.<br>⚡: I’m looking to collaborate on any project to help me learn.<br>📫 How to reach me Email: Berry.walker.jr@outlook.com<br>😄 Pronouns: That/Guy<br>:rocket: Fun fact: I am That Guy.
+👋 Hi, I’m @BenjaminxCoder<br>👀 I’m interested in Finance, Real Estate, and Software/AI.<br>🌱 I’m currently pursuing a Bachelor's degree in Software Development with a concentration in Artificial Intelligence at Bellevue College.<br>⚡: I’m looking to collaborate on any project to help me learn.<br>📫 How to reach me Email: Berry.walker.jr@outlook.com<br>😄 Pronouns: That/Guy<br>:rocket: Fun fact: Why do programmers prefer dark mode?<br> Because the light attracts bugs! 🐛💡
 
 
 ## 🌐 Socials:
