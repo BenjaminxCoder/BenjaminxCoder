@@ -1,6 +1,30 @@
 # 💫 About Me:
-🛠️ I’m currently working on:<br>	•	A scalable backend system inspired by AWS Route 53<br>	•	Cloud-native infrastructure using Go + Python<br>	•	AI-enhanced projects to solve real-world problems<br><br>🤝 I’m looking to collaborate on:<br>	•	Distributed systems and backend challenges<br>	•	Serverless infrastructure and cloud automation<br><br>🧠 I’m looking for help with:<br>	•	Mastering multi-region fault tolerance patterns<br>	•	Tuning AI for performance in production apps<br><br>🌱 I’m currently learning:<br>	•	AWS Developer Associate Path<br>	•	Go-based microservices and CloudFormation<br><br>💬 Ask me about:<br>	•	Self-hosting, backend architectures, or trading automation<br>	•	How I turned system design into a personal language<br><br>⚡ Fun fact:<br>I learn programming like a systems engineer meets a lazy genius—80/20 rule, visual diagrams, AI-driven flashcards, and late-night code quests.<br>
+🛠️ I’m currently working on:  
+  • Personal finance API with LLM-powered categorization & insights (Python + Docker)  
+  • High-performance C++ entity simulators hitting 60+ FPS under heavy load  
+  • Scalable REST backends handling 10k+ requests (containerized, production-ready)  
+  • Roblox Studio experiments in Luau (procedural generation + real-time systems)  
 
+🤝 I’m looking to collaborate on:  
+  • Distributed systems & backend scale challenges  
+  • Serverless/cloud-native infrastructure  
+  • AI-enhanced fintech or creator-economy tools  
+
+🧠 I’m looking for help with:  
+  • Multi-region fault tolerance & advanced AWS patterns  
+  • Production-grade LLM inference + cost/latency tuning  
+
+🌱 I’m currently learning:  
+  • AWS Developer Associate certification path  
+  • Go microservices + advanced Docker/K8s orchestration  
+  • game-engine performance fundamentals  
+
+💬 Ask me about:  
+  • Backend optimization, trading automation, or 80/20 system mastery  
+  • Turning complex architecture into simple mental models with diagrams  
+
+⚡ Fun fact:  
+I learn programming like a systems engineer meets a lazy genius—80/20 rule, visual diagrams, AI-driven flashcards, and late-night code quests.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berry-walker-2314651b7/) 
