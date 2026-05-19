@@ -1,4 +1,3 @@
-# Benjamin Torres
 ### ML Engineer · AI & Automation Developer · King County, WA
 ---
 ## 🛠️ Currently Building:
