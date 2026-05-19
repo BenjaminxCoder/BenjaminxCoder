@@ -15,7 +15,7 @@
 
 ## 🌱 Currently Learning:
 - AWS Developer Associate certification
-- MLOps — model deployment, monitoring, and inference optimization
+- MLOps; model deployment, monitoring, and inference optimization
 - Docker/K8s orchestration for ML workloads
 
 ## 💬 Ask Me About:
