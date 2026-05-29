@@ -1,4 +1,4 @@
-### ML Engineer · AI & Automation Developer · King County, WA
+### AI Engineer · AI & Automation Developer · King County, WA
 ---
 ## 🛠️ Currently Building:
 - Web scraping & data automation tools for small businesses (Python + Playwright)
